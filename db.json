@@ -1,0 +1,250 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "新闻条目1新闻条目1新闻条目1新闻条目1",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "新闻条目2新闻条目2新闻条目2新闻条目2",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "新闻条3新闻条3新闻条3",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "新闻条4广告发布",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  },
+  "marketList":{
+    "bake":{
+      "title":"烘焙厨艺",
+      "content":[
+        {
+          "title":"[沪]安佳|芝士片 250g至19.4.26",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_01.png",
+          "rice":"24.8",
+          "number":"5436",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"贝壳烘焙|总统淡味黄油块200g*3到19.6",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_02.png",
+          "rice":"79.8",
+          "number":"2265",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"贝壳烘焙|爱乐薇铁塔淡奶油 动物性裱花稀奶油原装",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_03.png",
+          "rice":"43.8",
+          "number":"219",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"总统|黄油块200g至19.5.8",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_04.png",
+          "rice":"30.8",
+          "number":"21007",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"劣狐狐|日本宇治小山园抹茶粉 丸久小山园五十铃青岚若竹抹茶粉50g",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_05.png",
+          "rice":"49",
+          "number":"169",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"贝壳烘焙|总统黄油卷 发酵黄油 面包蛋糕奶油250g*3烘焙原料19.5",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_06.png",
+          "rice":"95.8",
+          "number":"1760",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"贝壳烘焙|烘焙原料 法国总统淡奶油鲜奶油淡忌廉裱花奶油原装进口1L19.1.17",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_07.png",
+          "rice":"38.8",
+          "number":"844",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"舒可曼|杏仁粉（）扁桃仁粉 100g",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/h_08.png",
+          "rice":"14.9",
+          "number":"15805",
+          "toSrc":"/menu"
+        }
+      ]
+    },
+    "grainOil":{
+      "title":"粮油调料",
+      "content":[
+        {
+          "title":"云娘食记|三色藜麦400g 纤身必吃，丰富营养餐get",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_01.png",
+          "rice":"39.9",
+          "number":"2413",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"美玫| 低筋粉 低粉 蛋糕粉 1kg低筋面粉，专业烘焙低粉，达人力推",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_02.png",
+          "rice":"18.9",
+          "number":"6745",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"云娘食记|云南野生双颊皂角米 80g 无糖无碱、大粒双颊皂角米",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_03.png",
+          "rice":"24.6",
+          "number":"1025",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"铁蛋米店|【2018年新货】东北特产白甜糯玉米 非转基因 农民自产 绿色种植",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_04.png",
+          "rice":"20.8",
+          "number":"1825",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"诺蓓耳|云南野生皂角米100g+精选桃胶100g，组合装。买2减5元 Q弹又软糯",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_05.png",
+          "rice":"49.9",
+          "number":"15412",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"蜜悦|大粒双颊皂角米100克 植物燕窝 口感Q弹 煮粥煲汤",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_06.png",
+          "rice":"46.8",
+          "number":"168",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"【2018年新米抢先上市】贵财家|五常稻花香大米",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_07.png",
+          "rice":"76.5",
+          "number":"654",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"【金秋新米】吴阁老|沁州 黄小米真空扎带装500g*4",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/c_08.png",
+          "rice":"46.9",
+          "number":"357",
+          "toSrc":"/menu"
+        }
+      ]
+    },
+    "import":{
+      "title":"进口食品",
+      "content":[
+        {
+          "title":"爱淘|瑞典进口ICA草莓酸奶球水果燕麦片500g",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_01.png",
+          "rice":"48.9",
+          "number":"525",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"Pic`s|新西兰原装瓶进口颗粒/幼滑花生酱、腰果酱",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_02.png",
+          "rice":"38",
+          "number":"2413",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"保加利亚原装进口Rosadoli蜂蜜玫瑰花茶 680g 喝出浪漫 喝出健康",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_03.png",
+          "rice":"51.8",
+          "number":"241",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"贝斯隆|意大利直身面7# 500g*4",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_04.png",
+          "rice":"38",
+          "number":"2413",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"卡派纳|柠檬利口酒500ml*1巧克力味利口酒500ml*1",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_05.png",
+          "rice":"256",
+          "number":"104",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"【3份减5元】妈妈农场|新西兰进口全五谷燕麦棒 富含膳食纤维 营养代餐饱腹",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_06.png",
+          "rice":"26.9",
+          "number":"189",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"【2份减5元】皇冠|阿联进口皇冠皇椰枣1kg蜜枣",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_07.png",
+          "rice":"38",
+          "number":"489",
+          "toSrc":"/menu"
+        },
+        {
+          "title":"迪尔玛DILMAHI | 伯爵红茶袋100*2g独立装",
+          "imgSrc":"http://img.989088.org/VUE/images/foot/j_08.png",
+          "rice":"66.9",
+          "number":"689",
+          "toSrc":"/menu"
+        }
+      ]
+    }
+  }
+}

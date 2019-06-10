@@ -1,0 +1,132 @@
+@import "style.less";
+
+.loginMain{
+  img{
+    width: 100%;
+    height: 100%;
+  }
+  .top{
+    position: relative;
+    height: 380px;
+    div{
+      height: 100%;
+    }
+    .img{
+      position: relative;
+      div{
+        position: absolute;
+        top:0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background-color: rgba(0,0,0,.3);
+      }
+    }
+
+    .classify{
+      position: absolute;
+      bottom: 0;
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      height: 80px;
+      line-height: 80px;
+      font-size: 32px;
+      text-align: center;
+      div{
+        width: 49%;
+        color: #fff;
+        position: relative;
+        .triangle_border_up{
+          position: absolute;
+          bottom: -2px;
+          left: 45%;
+          width:0;
+          height:0;
+          height: 0px;
+          width: 0px;
+          border-right: 17px solid transparent;
+          border-bottom: 17px solid #fff;
+          border-left: 17px solid transparent;
+        }
+      }
+      p{
+        width: 2px;
+        height: 25px;
+        background-color: #fff;
+        margin-top: 25px;
+      }
+    }
+  }
+  .form{
+    padding: 60px;
+    .formConter{
+      &>div{
+        margin-bottom: 70px;
+      }
+    }
+    .formLabel{
+      height: 60px;
+      label{
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        text-align: left;
+        border-bottom: 1px solid #333;
+        .iconfont{
+          display: inline-block;
+          height: 100%;
+          width: 50px;
+          font-size: 50px;
+          color: @333;
+        }
+        input{
+          border: none;
+          position: absolute;
+          left: 50px;
+          display: inline-block;
+          width: 90%;
+          height: 90%;
+          font-size: 26px;
+          outline:none;
+        }
+      }
+    }
+    .verification{
+      label{
+        input{
+          width: 40%;
+        }
+      }
+      .yard{
+        position: absolute;
+        right: 0;
+        bottom: 10px;
+        display: inline-block;
+        width: 200px;
+        height: 90%;
+        line-height: 50px;
+        text-align: center;
+        background-color: @ffca00;
+        color: @333;
+      }
+    }
+    .button{
+      width: 100%;
+      height: 60px;
+      line-height: 60px;
+      background-color: @ffca00;
+      font-size: 32px;
+      color: #000;
+      margin-bottom: 70px;
+      text-align: center;
+    }
+    .hint{
+      display: flex;
+      justify-content: space-between;
+      font-size: 26px;
+    }
+
+  }
+}
